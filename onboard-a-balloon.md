@@ -28,12 +28,21 @@ Outline
 
 
 
-* Blowing Up Impostor Syndrome
+* Floating away from impostor syndrome.
     - I used to be a balloon artist.
     - Teaching yourself something weird and unnatural
         + Shows you that you can teach yourself anything.
         + Made me realize I wanted to do something where I was more talented at.
     - Funny thing is how I faced the same mental block: impostor syndrome.
-    - The thing about impostor syndrome is that 
-
-
+    - Impostor syndrome is the fear that someone will soon "figure out" that you don't belong where you are.
+    - Three legs to impostor syndrome:
+        + comparing yourself to others
+        + imagined competition
+        + narrowed value concept
+    - Once you've popped your impostor syndrome, you can fully embrace the constant learning our engineering career requires.
+    - Because you won't be learning because you're scared of people finding out you don't know anything.
+    - You'll be learning so that you can build cooler and cooler and cooler things.
+    - And then your career can really take off.
+    - Because impostor syndrome isn't a stool. You can stand on a stool. They're useful.
+    - Impostor syndrome is a weight holding you down. And if you cut yourself free from it... well, then you can reach your ceiling.
+    - Thank you for your time.
